@@ -29,3 +29,5 @@ There are special tests in several classes that applies your tests to your and s
 - [ParamCarelessTwoRootsOnlyQuadraticEquationTestingTest](src/test/java/com/epam/rd/autotasks/ParamCarelessTwoRootsOnlyQuadraticEquationTestingTest.java)
 
 Your solution method must pass your tests, and others must fail in some cases.
+
+Hint: [Quadratic formula reference](https://en.wikipedia.org/wiki/Quadratic_formula)
