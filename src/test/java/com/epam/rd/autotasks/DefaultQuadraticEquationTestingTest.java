@@ -16,7 +16,7 @@ import static org.junit.Assert.assertTrue;
 public class DefaultQuadraticEquationTestingTest {
 
     @Test
-    public void testClassesAreParametrized() {
+    public void testClassesAreParameterized() {
         final List<Class<?>> testingClasses = Arrays.asList(
                 QuadraticEquationNoRootsCasesTesting.class,
                 QuadraticEquationSingleRootCasesTesting.class,

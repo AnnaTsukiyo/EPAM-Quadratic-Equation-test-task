@@ -17,7 +17,7 @@ Next, you need to complete the test classes:
 - [QuadraticEquationTwoRootsCasesTesting](src/main/java/com/epam/rd/autotasks/QuadraticEquationTwoRootsCasesTesting.java)
 - [QuadraticEquationZeroACasesTesting](src/main/java/com/epam/rd/autotasks/QuadraticEquationZeroACasesTesting.java)
 
-Those are parametrized test classes, so take that into account. You have to provide at least 4 test cases for each one of the classes.
+Those are parameterized test classes, so take that into account. You have to provide at least 4 test cases for each one of the classes.
 Also, you may not change signature of their constructors.
 
 In order to pass the exercise, your tests must correctly detect flaws of some other sorting method implementations.
